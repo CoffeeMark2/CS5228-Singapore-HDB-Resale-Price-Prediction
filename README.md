@@ -1,6 +1,6 @@
 # CS5228 Singapore HDB Resale Price Prediction (Team 2)
 
-This project predicts Singapore HDB resale prices using machine learning models. The solution involves extensive data preprocessing, feature engineering, and ensemble modeling using CatBoost, LightGBM, and XGBoost. The dataset used in this report is available in our GitHub repository at [link]
+This project predicts Singapore HDB resale prices using machine learning models. The solution involves extensive data preprocessing, feature engineering, and ensemble modeling using CatBoost, LightGBM, and XGBoost. The dataset used in this report is available in our GitHub repository at [here](https://github.com/CoffeeMark2/CS5228-Singapore-HDB-Resale-Price-Prediction).
 
 ## Project Overview
 
@@ -90,7 +90,7 @@ Run the three Jupyter notebooks in sequence to prepare your data:
 
 > **Note**: Make sure you have the required auxiliary data in the `au-data/` directory and HDB block details in `auxiliary-data/` directory before running the notebooks.
 
-### Step 2: Model Validation (Optional but Recommended)
+### Step 2: Model Validation
 Perform K-fold cross-validation to evaluate model performance and determine optimal training iterations:
 
 ```bash
